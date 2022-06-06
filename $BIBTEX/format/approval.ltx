@@ -1,0 +1,174 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ifFinished
+	\phantomsection % for the TOC
+	\addcontentsline{toc}{chapter}{%
+	\ifGrad 
+			Approval Sheet 
+	\else 
+			\documentType \ Approval Sheet 
+	\fi}
+	{
+	\ifApprovalSheetSigned
+		\includepdf[pages={1},%
+			offset=3.5mm -10mm,%
+			scale=0.75,%
+			pagecommand={},]
+			{\scannedApprovalSheetFileName}}		
+	\else	
+		\fbox{
+		\begin{minipage}{\dimexpr\linewidth-2\fboxrule-2\fboxsep}
+		\begin{SingleSpace}
+		\thispagestyle{empty}
+		\begin{center}
+		\begin{tabular}{c c c c c}
+		\raisebox{-.5\height}{\includegraphics[width=0.14\textwidth]{../format/MSU_GSC_logo}} &
+		\hspace{1em}&
+		\begin{tabular}{c}
+		Republic of the Philippines \\
+		\textbf{MINDANAO STATE UNIVERSITY} \\
+		\MakeUppercase{\college}
+		\end{tabular}
+		&\hspace{1em}
+		& \raisebox{-.5\height}{\includegraphics[width=0.14\textwidth]{../format/MSU_COE_logo}}
+		\end{tabular}
+		\end{center}
+			\begin{center} % title heading
+				{\normalfont \large \bfseries \rmfamily 
+				\MakeTextUppercase{
+				\ifGrad 
+						Approval Sheet 
+				\else 
+						Approval Sheet 
+				\fi}}
+			\end{center}
+			\vspace{2ex}
+
+			\ifGrad
+					\noindent This \MakeTextLowercase{\documentType}  entitled:
+							
+					\begin{center}
+						{\bfseries ``\documentTitle''}
+					\end{center}
+				
+					\noindent prepared and submitted by 
+					{\ {\bfseries \documentAuthor{firstname1}} 
+					 \ {\bfseries \documentAuthor{surname1}},}
+					in partial fulfillment of the requirements for the degree of
+					{\bfseries \degreeType \ in \degree} \  
+					has been examined and is recommended for acceptance and approval 
+					for ORAL~EXAMINATION.
+					\vfill
+													
+					\begin{tabular}{c c c}
+					\hspace {9em} & \hspace {9em} & \rule{5cm}{.4pt}\\
+					& & {\bfseries \documentAdviserTitle\ \documentAdviser}\\
+					& & {\itshape Adviser} \\
+					\end{tabular}
+					\vfill
+			
+					\noindent Approved by the Committee on Oral Examination with a grade of 
+					PASSED on \ \finalDefenseDate.\\
+								
+					{
+					\centering
+					\rule{5cm}{.4pt}\\
+					{\bfseries \examinerChairTitle \ \examinerChair}\\
+					{\itshape Chair} \\
+					\vfill
+
+					\begin{tabular}{c c c}
+					\rule{5cm}{.4pt} & \hspace {8em} & \rule{5cm}{.4pt}\\
+					{\bfseries \examinerATitle \ \examinerA} & & 
+					{\bfseries \examinerBTitle \ \examinerB}\\ 
+					{\itshape Member} & & {\itshape Member} \\
+					\end{tabular}
+					\vfill
+
+					\ifPhD
+						\begin{tabular}{c c c}
+						\rule{5cm}{.4pt} & \hspace {8em} & \rule{5cm}{.4pt}\\
+						{\bfseries \examinerCTitle \ \examinerC} & & 
+						{\bfseries \examinerDTitle \ \examinerD}\\ 
+						{\itshape Member} & & {\itshape Member} \\
+						\end{tabular}
+						\vfill
+					\fi
+					}
+					
+					\noindent Accepted in partial fulfillment of the requirements for 
+					the degree of {\bfseries \degreeType \ in \ \degree}. 
+					\vfill
+
+					\begin{tabular}{c c c}
+					& & \\
+					\rule{5cm}{.4pt}  & \hspace{5em} & \rule{5cm}{.4pt}\\
+					{\bfseries \RASDTitle\ \RASDName} & & {\bfseries \deanTitle\ \deanName}\\
+					{\itshape Research and Advanced Studies} & & {\itshape Dean} \\
+					{\itshape Director} & & \\
+					\end{tabular}
+				
+					\begin{center}
+						\vspace{-2ex}
+						{\itshape \college}	
+					\end{center}
+					
+					\vfill
+
+			\else		
+					This undergraduate \MakeTextLowercase{\documentType}, entitled, ''\documentTitle'',
+					 prepared by\foreach \n in{1,...,\numberOfAuthors}{\ifnum\n>1\ifnum\numberOfAuthors=2\else{,}\fi\ifnum\n=\numberOfAuthors{ and}\fi\fi{\ }\documentAuthor{firstname\n} \documentAuthor{surname\n}}, 
+					 in partial fulfillment of the requirements in \thesisSubjectCode - Research 
+					 and /or Project has been examined and approved for oral examination. 
+					\vspace{7ex}
+					\begin{flushright}
+					\begin{tabular}{cc}
+					&
+					\begin{tabular}{c}
+					 \MakeUppercase{\documentAdviserTitle \ \documentAdviser}\\
+					 Adviser \\
+					\end{tabular}
+					\end{tabular}
+					\end{flushright}
+					 \begin{center}
+					\rule{14.5cm}{.4pt}
+					 Approved by the Panel on Oral Examination on \finalDefenseDate \\
+					 
+					\vspace{10ex}
+					\MakeUppercase{\examinerChairTitle\ \examinerChair}\\
+					Chairman\\
+					\vspace{10ex}
+					\begin{tabular}{c c c}
+					\MakeUppercase{\examinerATitle \ \examinerA}
+					&\hspace{5em}	
+					&\MakeUppercase{\examinerBTitle \ \examinerB}\\
+					 Member & & Member \\
+					\end{tabular}
+					\rule{14.5cm}{.4pt}
+					\end{center}
+					
+
+					\begin{center}
+					\noindent Accepted and approved in partial fulfilment of the course requirements for the degree of \\
+					\MakeUppercase{\degreeType \  in \degree}
+					
+					\begin{tabular}{c c c}
+					\vspace{10ex} \\
+					\MakeUppercase{\deptChairmanTitle \ \deptChairman}
+					&\hspace{5em}
+ 					&\MakeUppercase{\deanTitle \ \deanName} \\
+					Department Chairman && Dean, \college \\
+					\vspace{0.1pt}&\vspace{0.1pt}&\vspace{0.1pt}\\
+					\end{tabular}
+					\end{center}
+					 			
+			\fi
+		
+		\end{SingleSpace}
+		\end{minipage}
+		}}
+	
+	\fi
+		
+\fi
+\cleardoublepage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,0 +1,1 @@
+Permission to reprint/republish any item in this CD for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this CD in other works must be obtained from the author(s)/publisher(s)/authorizing body.

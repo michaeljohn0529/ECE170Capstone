@@ -1,0 +1,92 @@
+\contentsline {chapter}{Thesis\ Approval Sheet }{ii}{section*.1}
+\contentsline {chapter}{Acknowledgment}{iv}{section*.3}
+\contentsline {chapter}{Abstract}{v}{section*.5}
+\contentsline {chapter}{Table of Contents}{vi}{section*.7}
+\contentsline {chapter}{List of Figures}{viii}{section*.8}
+\contentsline {chapter}{List of Tables}{ix}{section*.9}
+\contentsline {chapter}{Abbreviations}{x}{section*.10}
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introduction}}{1}{chapter.1}
+\ttl@starttoc {chapters@1}
+\contentsline {section}{\numberline {1.1}Background of the Study}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Prior Studies}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Problem Statement}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}Objectives}{6}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}General Objective(s)}{6}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Specific Objectives}{6}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Significance of the Study}{6}{section.1.5}
+\contentsline {section}{\numberline {1.6}Assumptions, Scope and Delimitations}{7}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Assumptions}{7}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Scope}{7}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Delimitations}{7}{subsection.1.6.3}
+\contentsline {section}{\numberline {1.7}Description and Methodology of the Thesis}{8}{section.1.7}
+\contentsline {section}{\numberline {1.8}Overview of the Thesis}{8}{section.1.8}
+\ttl@stoptoc {chapters@1}
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Literature Review}}{9}{chapter.2}
+\ttl@stoptoc {chapters@1}
+\ttl@starttoc {chapters@2}
+\contentsline {section}{\numberline {2.1}Existing Work}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}Lacking in the Approaches}{12}{section.2.2}
+\contentsline {section}{\numberline {2.3}Summary}{14}{section.2.3}
+\ttl@stoptoc {chapters@2}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Methodology}}{15}{chapter.3}
+\ttl@stoptoc {chapters@2}
+\ttl@starttoc {chapters@3}
+\contentsline {section}{\numberline {3.1}Implementation}{16}{section.3.1}
+\contentsline {section}{\numberline {3.2}Evaluation}{18}{section.3.2}
+\contentsline {section}{\numberline {3.3}Summary}{20}{section.3.3}
+\ttl@stoptoc {chapters@3}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Results and Discussions}}{21}{chapter.4}
+\ttl@stoptoc {chapters@3}
+\ttl@starttoc {chapters@4}
+\contentsline {section}{\numberline {4.1}Summary}{24}{section.4.1}
+\ttl@stoptoc {chapters@4}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Conclusions, Recommendations, and Future Directives}}{25}{chapter.5}
+\ttl@stoptoc {chapters@4}
+\ttl@starttoc {chapters@5}
+\contentsline {section}{\numberline {5.1}Concluding Remarks}{26}{section.5.1}
+\contentsline {section}{\numberline {5.2}Contributions}{26}{section.5.2}
+\contentsline {section}{\numberline {5.3}Recommendations}{26}{section.5.3}
+\contentsline {section}{\numberline {5.4}Future Prospects}{28}{section.5.4}
+\ttl@stoptoc {chapters@5}
+\contentsline {chapter}{References}{29}{chapter*.12}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Answers to Questions to this Thesis}}{37}{appendix.A}
+\ttl@stoptoc {chapters@5}
+\ttl@starttoc {chapters@6}
+\ttl@stoptoc {chapters@6}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Usage Examples}}{44}{appendix.B}
+\ttl@stoptoc {chapters@6}
+\ttl@starttoc {chapters@7}
+\contentsline {section}{\numberline {B1}Equations}{45}{section.B.1}
+\contentsline {section}{\numberline {B2}Notations}{47}{section.B.2}
+\contentsline {subsection}{\numberline {B2.1}Math alphabets}{47}{subsection.B.2.1}
+\contentsline {subsection}{\numberline {B2.2}Vector symbols}{47}{subsection.B.2.2}
+\contentsline {subsection}{\numberline {B2.3}Matrix symbols}{47}{subsection.B.2.3}
+\contentsline {subsection}{\numberline {B2.4}Tensor symbols}{48}{subsection.B.2.4}
+\contentsline {subsection}{\numberline {B2.5}Bold math version}{49}{subsection.B.2.5}
+\contentsline {subsubsection}{\numberline {B2.5.1}Vector symbols}{49}{subsubsection.B.2.5.1}
+\contentsline {subsubsection}{\numberline {B2.5.2}Matrix symbols}{49}{subsubsection.B.2.5.2}
+\contentsline {subsubsection}{\numberline {B2.5.3}Tensor symbols}{49}{subsubsection.B.2.5.3}
+\contentsline {section}{\numberline {B3}Abbreviation}{53}{section.B.3}
+\contentsline {section}{\numberline {B4}Glossary}{55}{section.B.4}
+\contentsline {section}{\numberline {B5}Figure}{56}{section.B.5}
+\contentsline {section}{\numberline {B6}Table}{62}{section.B.6}
+\contentsline {section}{\numberline {B7}Algorithm or Pseudocode Listing}{66}{section.B.7}
+\contentsline {section}{\numberline {B8}Program/Code Listing}{68}{section.B.8}
+\contentsline {section}{\numberline {B9}Referencing}{70}{section.B.9}
+\contentsline {subsection}{\numberline {B9.1}A subsection}{71}{subsection.B.9.1}
+\contentsline {subsubsection}{\numberline {B9.1.1}A sub-subsection}{72}{subsubsection.B.9.1.1}
+\contentsline {section}{\numberline {B10}Citing}{73}{section.B.10}
+\contentsline {subsection}{\numberline {B10.1}Books}{73}{subsection.B.10.1}
+\contentsline {subsection}{\numberline {B10.2}Booklets}{74}{subsection.B.10.2}
+\contentsline {subsection}{\numberline {B10.3}Proceedings}{74}{subsection.B.10.3}
+\contentsline {subsection}{\numberline {B10.4}In books}{75}{subsection.B.10.4}
+\contentsline {subsection}{\numberline {B10.5}In proceedings}{76}{subsection.B.10.5}
+\contentsline {subsection}{\numberline {B10.6}Journals}{76}{subsection.B.10.6}
+\contentsline {subsection}{\numberline {B10.7}Theses/dissertations}{77}{subsection.B.10.7}
+\contentsline {subsection}{\numberline {B10.8}Technical Reports and Others}{78}{subsection.B.10.8}
+\contentsline {subsection}{\numberline {B10.9}Miscellaneous}{78}{subsection.B.10.9}
+\contentsline {section}{\numberline {B11}Index}{80}{section.B.11}
+\contentsline {section}{\numberline {B12}Adding Relevant PDF Pages}{81}{section.B.12}
+\contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Vita}}{85}{appendix.C}
+\ttl@stoptoc {chapters@7}
+\contentsfinish 

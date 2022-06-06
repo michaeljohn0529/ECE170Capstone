@@ -1,0 +1,139 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: document.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: literature_review.aux
+A level-1 auxiliary file: theoretical_considerations.aux
+A level-1 auxiliary file: design_considerations.aux
+A level-1 auxiliary file: methodology.aux
+A level-1 auxiliary file: results_and_discussions.aux
+A level-1 auxiliary file: conclusions.aux
+The style file: apalike.bst
+A level-1 auxiliary file: answers_to_questions.aux
+A level-1 auxiliary file: revisions_to_the_proposal.aux
+A level-1 auxiliary file: revisions_to_the_final.aux
+A level-1 auxiliary file: usage_examples.aux
+A level-1 auxiliary file: vita.aux
+Database file #1: references.bib
+Warning--entry type for "almendro" isn't style-file defined
+--line 259 of file references.bib
+Warning--string name "cup" is undefined
+--line 335 of file references.bib
+Warning--string name "cup" is undefined
+--line 377 of file references.bib
+Warning--entry type for "baez/online" isn't style-file defined
+--line 593 of file references.bib
+Warning--string name "jams" is undefined
+--line 631 of file references.bib
+Warning--entry type for "chiu" isn't style-file defined
+--line 921 of file references.bib
+Warning--string name "anch-ie" is undefined
+--line 1725 of file references.bib
+Warning--entry type for "itzhaki" isn't style-file defined
+--line 2051 of file references.bib
+Warning--entry type for "kowalik" isn't style-file defined
+--line 2357 of file references.bib
+Warning--entry type for "laufenberg" isn't style-file defined
+--line 2477 of file references.bib
+Warning--entry type for "loh" isn't style-file defined
+--line 2589 of file references.bib
+Warning--entry type for "markey" isn't style-file defined
+--line 2719 of file references.bib
+Warning--string name "cup" is undefined
+--line 3013 of file references.bib
+Warning--string name "dtv" is undefined
+--line 3059 of file references.bib
+Warning--string name "dtv" is undefined
+--line 3119 of file references.bib
+Warning--string name "dtv" is undefined
+--line 3171 of file references.bib
+Warning--string name "acm" is undefined
+--line 3239 of file references.bib
+Warning--string name "stoc" is undefined
+--line 3257 of file references.bib
+Warning--entry type for "padhye" isn't style-file defined
+--line 3305 of file references.bib
+Warning--string name "hup" is undefined
+--line 3471 of file references.bib
+Warning--entry type for "sorace" isn't style-file defined
+--line 3803 of file references.bib
+Warning--entry type for "wassenberg" isn't style-file defined
+--line 3955 of file references.bib
+Warning--string name "stoc" is undefined
+--line 4247 of file references.bib
+Warning--string name "acm" is undefined
+--line 4263 of file references.bib
+A bad cross reference---entry "westfahl:space"
+refers to entry "westfahl:frontier", which doesn't exist
+A bad cross reference---entry "inproceedings-crossref"
+refers to entry "whole-proceedings", which doesn't exist
+Warning--I didn't find a database entry for "whole-proceedings"
+Warning--I didn't find a database entry for "westfahl:frontier"
+Warning--empty publisher in BCM-59
+Warning--can't use both author and editor fields in aristotle:rhetoric
+Warning--empty publisher in aristotle:rhetoric
+Warning--can't use both author and editor fields in aristotle:anima
+Warning--empty publisher in aristotle:anima
+Warning--can't use both author and editor fields in aristotle:poetics
+Warning--can't use both author and editor fields in averroes/bland
+Warning--empty journal in bertram
+Warning--can't use both author and editor fields in cicero
+Warning--can't use both author and editor fields in coleridge
+Warning--can't use both volume and number fields in coleridge
+Warning--empty author in whole-journal
+Warning--empty title in whole-journal
+Warning--empty publisher in hanson-67
+Warning--empty journal in herrmann
+Warning--can't use both author and editor fields in nietzsche:ksa1
+Warning--can't use both author and editor fields in nietzsche:ksa
+Warning--can't use both author and editor fields in nietzsche:historie
+Warning--empty booktitle in inproceedings-crossref
+Warning--empty publisher in pines
+Warning--empty publisher in ranganathan-51
+Warning--empty booktitle in westfahl:space
+Warning--empty publisher in westfahl:space
+Warning--empty institution in winget-67
+Warning--can't use both author and editor fields in wright-63
+Warning--empty publisher in wright-63
+You've used 149 entries,
+            1935 wiz_defined-function locations,
+            1242 strings with 20402 characters,
+and the built_in function-call counts, 51532 in all, are:
+= -- 5091
+> -- 1556
+< -- 190
++ -- 564
+- -- 478
+* -- 3846
+:= -- 9062
+add.period$ -- 477
+call.type$ -- 149
+change.case$ -- 944
+chr.to.int$ -- 131
+cite$ -- 175
+duplicate$ -- 2271
+empty$ -- 3863
+format.name$ -- 655
+if$ -- 10297
+int.to.chr$ -- 19
+int.to.str$ -- 0
+missing$ -- 164
+newline$ -- 752
+num.names$ -- 473
+pop$ -- 889
+preamble$ -- 1
+purify$ -- 975
+quote$ -- 0
+skip$ -- 1710
+stack$ -- 0
+substring$ -- 3181
+swap$ -- 364
+text.length$ -- 61
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 788
+warning$ -- 26
+while$ -- 416
+width$ -- 0
+write$ -- 1964
+(There were 2 error messages)

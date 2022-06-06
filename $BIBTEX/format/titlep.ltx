@@ -1,0 +1,62 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{
+\thispagestyle{empty}
+\begin{SingleSpace}
+	{
+		\centering
+		\includegraphics[width=0.14\textwidth]{../format/MSU_GSC_logo} 
+		\vspace{4ex}
+
+		\ifGrad
+			\begin{Spacing}{1.5} 
+				{\bfseries \Large \MakeTextUppercase{\documentTitle}}
+			\end{Spacing}
+		\else
+			\begin{Spacing}{1.5} 
+				{\documentTitle}
+			\end{Spacing}
+		\fi
+
+		%\rule{3cm}{0.5pt}\\
+		\vfill
+
+		An Undergraduate \documentType \\
+		Presented to the \ifGrad \else Faculty of the \fi \\
+		\ifGrad
+			EEE Departmentl of the \\
+		\else
+			\department \\
+		\fi
+		\college \\
+		Mindanao State University- General Santos City \\
+
+		%\rule{3cm}{0.5pt}\\
+		\vfill
+
+		In Partial Fulfillment of the\\
+		Requirements for the Degree of\\
+		\degreeType \ in \degree \\
+		\vfill
+
+		%\rule{3cm}{0.5pt}\\
+		\vspace{2.5ex}
+
+
+		\foreach \n in {1,...,\numberOfAuthors}{
+		\MakeTextUppercase{
+					\documentAuthor{surname\n}}, \ \documentAuthor{firstname\n} \\
+		}
+		\vspace{2.5ex}
+		\vfill
+		
+		\documentAdviserTitle \ \documentAdviser \\
+		Adviser \\
+		\vfill
+		
+
+		\monthyeardate\today \\
+	}
+\end{SingleSpace}
+}
+\cleardoublepage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
